@@ -1,4 +1,5 @@
 - entrance pupil
+- apodizer
 - focal plane mask
 - Lyot stop
 - detector optics
