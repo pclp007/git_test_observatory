@@ -5,3 +5,4 @@
 - grating
 - camera
 - detector
+VLTI
